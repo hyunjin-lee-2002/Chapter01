@@ -28,7 +28,7 @@ public class Ex05 {
 //		System.out.println("당신의 나이는 " + age + "살 입니다.");
 
 		
-		sc.close();
+		sc.close();   
 		
 	}
 }
