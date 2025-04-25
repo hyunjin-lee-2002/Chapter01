@@ -24,8 +24,6 @@ public class Ex07 {
 		
 		System.out.println("intArry의 4번째 값: " + intArry[3]);
 		
-		
-		
 	}
 
 }
